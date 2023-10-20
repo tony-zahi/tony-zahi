@@ -1,7 +1,7 @@
 [![MasterHead](https://www.mooclab.club/attachments/front-end-web-dev-jpg.1380/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Antonious Mamdouh</h1>
 <h3 align="center">I'm a Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">--!>
 
 
 - 🌱 I’m currently learning **Bootstrap**
